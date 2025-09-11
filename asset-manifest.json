@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/masrvi-dashboard/static/css/main.6e1d9ec6.css",
-    "main.js": "/masrvi-dashboard/static/js/main.7aff9962.js",
-    "static/js/27.825ea5da.chunk.js": "/masrvi-dashboard/static/js/27.825ea5da.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/masrvi-dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/masrvi-dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/masrvi-dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/bill.mp3": "/masrvi-dashboard/static/media/bill.e0e0ffa53508826ed81c.mp3",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/masrvi-dashboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/masrvi-dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/masrvi-dashboard/index.html"
+    "main.css": "/pay-dashboard/static/css/main.8d02c657.css",
+    "main.js": "/pay-dashboard/static/js/main.6c9ef7e2.js",
+    "static/js/27.825ea5da.chunk.js": "/pay-dashboard/static/js/27.825ea5da.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/pay-dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/pay-dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/pay-dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bill.mp3": "/pay-dashboard/static/media/bill.e0e0ffa53508826ed81c.mp3",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/pay-dashboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/pay-dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/pay-dashboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.6e1d9ec6.css",
-    "static/js/main.7aff9962.js"
+    "static/css/main.8d02c657.css",
+    "static/js/main.6c9ef7e2.js"
   ]
 }
